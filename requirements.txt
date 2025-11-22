@@ -1,0 +1,10 @@
+flask
+pyspark
+pandas
+numpy
+matplotlib
+seaborn
+google-generativeai
+python-dotenv
+werkzeug
+openpyxl
