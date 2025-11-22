@@ -1,5 +1,5 @@
 flask
-pyspark
+
 pandas
 numpy
 matplotlib
