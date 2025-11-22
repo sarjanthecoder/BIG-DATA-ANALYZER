@@ -37,8 +37,8 @@ Follow these steps to run the project locally.
 1. Clone the Repository
 Bash
 
-git clone https://github.com/yourusername/datalake-ai.git
-cd datalake-ai
+[git clone https://github.com/yourusername/datalake-ai.git
+cd datalake-ai](https://github.com/sarjanthecoder/BIG-DATA-ANALYZER.git)
 2. Set up a Virtual Environment (Recommended)
 Bash
 
