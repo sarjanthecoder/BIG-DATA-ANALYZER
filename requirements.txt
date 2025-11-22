@@ -8,3 +8,4 @@ google-generativeai
 python-dotenv
 werkzeug
 openpyxl
+gunicorn
